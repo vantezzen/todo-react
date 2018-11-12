@@ -1,0 +1,10 @@
+.add-task {
+    border-radius: 0;
+    border: 0;
+    padding-left: 1.25rem;
+    margin-top: 0.5rem;
+}
+.add-task:focus {
+    box-shadow: none;
+    border: 0;
+}

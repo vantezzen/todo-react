@@ -1,0 +1,12 @@
+.todo-item {
+    cursor: pointer;
+}
+
+.item-done .item-text {
+    color: #6c757d;
+    text-decoration: line-through;
+}
+
+.fa-circle, .fa-check-circle {
+    margin-right: 5px;
+}
